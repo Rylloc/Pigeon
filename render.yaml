@@ -8,7 +8,7 @@ services:
     startCommand: npm start
     envVars:
       - key: OPENAI_API_KEY
-        value: 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
+        value: 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
       - key: CHANNELS
         value: rylloc
       - key: GPT_MODE
