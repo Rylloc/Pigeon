@@ -22,6 +22,6 @@ services:
       - key: TWITCH_USER  # https://dev.twitch.tv/console
         value: "Neogip"
       - key: TWITCH_AUTH  # https://twitchapps.com/tmi/
-        value: "oauth:gmgh4uetmq3btlgudnpb5pzhs6wq34"
+        value: "oauth:1vk5hgvavo2f1qo6ce6jwwhc2zxomi"
       - key: SEND_USERNAME
         value: "true"
